@@ -1,0 +1,13 @@
+deployment:
+  tasks:
+    # Go to app directory
+    - cd /home/filesite/repositories/UI-UX-Portfolio-Mossabbir
+
+    # Install deps
+    - /bin/npm install
+
+    # Build Next.js
+    - /bin/npm run build
+
+    # Restart Node app (cPanel Passenger)
+    - touch tmp/restart.txt
