@@ -44,4 +44,34 @@ export const projects: Project[] = [
     image: '/images/project-7.png',
     preview: "https://adfusionlabs.ai/"
   },
+  {
+    title: 'Nutra AI Calorie Counter',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-8.png',
+    preview: "https://play.google.com/store/apps/details?id=com.nutraai.nutraai&pli=1"
+  },
+  {
+    title: 'Fondify',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-9.png',
+    preview: "https://www.fondify.io/"
+  },
+  {
+    title: 'Math Detectives',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-10.png',
+    preview: "https://www.mathaidetectives.com/"
+  },
+  {
+    title: 'Game plan',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-11.png',
+    preview: "https://gameplanai.co.uk/hom/"
+  },
+  {
+    title: 'ShipMate Ai',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-12.png',
+    preview: "https://shipmateai.org/"
+  },
 ];
