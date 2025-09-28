@@ -39,9 +39,9 @@ export const projects: Project[] = [
     preview: "https://dine-flow-9cef9.web.app/"
   },
   {
-    title: 'DineFlow',
+    title: 'ADFUSION',
     description: 'A restaurant ordering and management app with real-time updates.',
-    image: '/images/project-6.png',
-    preview: "https://dine-flow-9cef9.web.app/"
+    image: '/images/project-7.png',
+    preview: "https://adfusionlabs.ai/"
   },
 ];
