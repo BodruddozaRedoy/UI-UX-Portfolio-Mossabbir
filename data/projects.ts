@@ -164,4 +164,149 @@ export const projects: Project[] = [
     image: '/images/project-28.jpg',
     preview: "https://play.google.com/store/apps/details?id=com.united.bycadz&hl=en&pli=1"
   },
+  {
+    title: 'WoContacts',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-29.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.hkk4coding.wocontacts"
+  },
+  {
+    title: 'Runwey',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-30.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.joshua.runwey"
+  },
+  {
+    title: 'Razco Food',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-31.jpg',
+    preview: "https://razco-food-website.vercel.app/"
+  },
+  {
+    title: 'Frolicking Sable',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-32.jpg',
+    preview: "https://frolicking-sable-1ebb9b.netlify.app/"
+  },
+  {
+    title: 'RPT LABS',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-33.jpg',
+    preview: "https://rptlabs.org/"
+  },
+  {
+    title: 'Sheba',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-34.jpg',
+    preview: "https://www.sheba.xyz/"
+  },
+  {
+    title: 'Alfa',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-35.jpg',
+    preview: "https://alfapte.com/"
+  },
+  {
+    title: 'qe24canada',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-36.jpg',
+    preview: "https://qe24canada.com/"
+  },
+  {
+    title: 'Chorcha',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-37.jpg',
+    preview: "https://chorcha.net/"
+  },
+  {
+    title: 'Clin',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-38.jpg',
+    preview: "https://rococo-melba-7a7746.netlify.app/home"
+  },
+  {
+    title: 'Costa Rica',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-39.jpg',
+    preview: "https://es.visitcostarica.com/mexico"
+  },
+  {
+    title: 'Blaze',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-40.jpg',
+    preview: "https://www.blaze.ai/"
+  },
+  {
+    title: 'MedAI: Pro AI Doctor Assistant',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-41.jpg',
+    preview: "https://apps.apple.com/ua/app/medai-pro-ai-doctor-assistant/id6738038008"
+  },
+  {
+    title: 'Planfit ai',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-42.jpg',
+    preview: "https://planfit.ai/"
+  },
+  {
+    title: 'Chat Bot',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-43.jpg',
+    preview: "https://chat-website-demo.aidbase.ai/"
+  },
+  {
+    title: 'Trend Assist Ai',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-44.jpg',
+    preview: "https://app.trendassist.ai/"
+  },
+  {
+    title: 'Ira | the most human AI',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-45.jpg',
+    preview: "https://play.google.com/store/apps/details?id=ai.rumik.ira.twa&hl=en"
+  },
+  {
+    title: 'Chorcha: Practice & Prepare',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-46.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.chorcha.main&hl=en"
+  },
+  {
+    title: 'Chaldal: Online Grocery',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-47.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.chaldal.poached&hl=en"
+  },
+  {
+    title: 'Resid Pro',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-48.jpg',
+    preview: "https://apps.apple.com/in/app/resid-pro/id6473144135"
+  },
+  {
+    title: 'WoContacts',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-49.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.hkk4coding.wocontacts"
+  },
+  {
+    title: 'Planfit - Gym Workout Planner',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-50.jpg',
+    preview: "https://play.google.com/store/apps/details?id=com.mih.planfit&hl=en"
+  },
+  {
+    title: 'Female Healthcare',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-51.jpg',
+    preview: "https://female-healthcare.vercel.app/"
+  },
+  {
+    title: 'Healo Chatbot',
+    description: 'A restaurant ordering and management app with real-time updates.',
+    image: '/images/project-53.jpg',
+    preview: "https://healo.infiheal.com/"
+  },
+  
 ];
