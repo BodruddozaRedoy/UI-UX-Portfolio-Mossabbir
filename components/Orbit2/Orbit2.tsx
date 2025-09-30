@@ -10,66 +10,66 @@ import SectionTitle from "../shared/CustomStyle/SectionTitle/SectionTitle";
 const people = [
   {
     id: 1,
-    name: "Albert Einstein",
-    role: "Theoretical Physicist",
-    email: "einstein@example.com",
+    name: "jhonkony Tx",
+    role: "CEO & Founder",
+    email: "hello.uiverse.bd.com",
     profile:
-      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg",
+      "https://cdn.pixabay.com/photo/2016/11/29/09/38/adult-1868750_1280.jpg",
   },
   {
     id: 2,
-    name: "Isaac Newton",
-    role: "Physicist & Mathematician",
-    email: "newton@example.com",
+    name: "jeason jeme",
+    role: "P Founder",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/1200px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg",
+      "https://voluminous-amaranth-qevphnlmnp.edgeone.app/man-9216455_1280.jpg",
   },
   {
     id: 3,
     name: "Marie Curie",
-    role: "Physicist & Chemist",
-    email: "curie@example.com",
+    role: "Memager",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marie_Curie_c1920.jpg",
+      "https://cdn.pixabay.com/photo/2023/04/03/04/49/woman-7895954_1280.jpg",
   },
   {
     id: 4,
-    name: "Nikola Tesla",
-    role: "Inventor & Engineer",
-    email: "tesla@example.com",
-    profile: "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+    name: "Taisa mary",
+    role: "CEO & Engineer",
+    email: "hello.uiverse.bd@gmail.com",
+    profile: "https://cdn.pixabay.com/photo/2024/09/15/16/46/ai-generated-9049422_960_720.png",
   },
   {
     id: 5,
-    name: "Charles Darwin",
-    role: "Naturalist & Biologist",
-    email: "darwin@example.com",
+    name: "kenny d.t",
+    role: "CEO ",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://hips.hearstapps.com/hmg-prod/images/gettyimages-79035252.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
+      "https://cdn.pixabay.com/photo/2024/05/29/07/51/ai-generated-8795603_1280.jpg",
   },
   {
     id: 6,
-    name: "Galileo Galilei",
-    role: "Astronomer & Physicist",
-    email: "galileo@example.com",
+    name: "jonsicy pol",
+    role: "Founder",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/galileo-galilei-gettyimages-51246872?_a=BAVAZGDX0",
+      "https://cdn.pixabay.com/photo/2021/07/26/13/19/man-6494286_640.jpg",
   },
   {
     id: 7,
-    name: "Stephen Hawking",
-    role: "Theoretical Physicist",
-    email: "hawking@example.com",
+    name: "sakiloean tony",
+    role: "CEO & Founder",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+      "https://cdn.pixabay.com/photo/2020/07/17/22/01/man-5415572_640.jpg",
   },
   {
     id: 8,
-    name: "Richard Feynman",
-    role: "Theoretical Physicist",
-    email: "feynman@example.com",
+    name: "Pettar pm",
+    role: "Menager",
+    email: "hello.uiverse.bd@gmail.com",
     profile:
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz7DeuUmHN7TiT3xf7cV7UPBJNDtEvjNZcgMmNElTmOJYaec6zQI0UiLU04jZP6hqkeLcrnaC5NP4WC_zRQzP3_QhLumNxyzPOsC-WEmWQyYsadq1Eg_V_jEjDfCdddeQgJjY_OOB1KLMj6o2ShA6ycHwM91I430Yr9tkYTn6759jDmcGAsONOACbi/w1200-h630-p-k-no-nu/richard%20feynman%20quotes%20atheism%20religion%20science.png",
+      "https://cdn.pixabay.com/photo/2014/11/19/10/52/man-537136_640.jpg",
   },
 ];
 
