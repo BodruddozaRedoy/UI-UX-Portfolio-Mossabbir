@@ -39,18 +39,18 @@ const HeartIcon = () => (
 
 // --- Simplified mock data ---
 const initialItems: MasonryItem[] = [
-  { id: 1, imageUrl: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=800&auto=format&fit=crop', title: 'Misty Mountain Valley' },
-  { id: 2, imageUrl: 'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?q=80&w=800&auto=format&fit=crop', title: 'Lakeside Cabin' },
-  { id: 3, imageUrl: 'https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?q=80&w=800&auto=format&fit=crop', title: 'Sunlight Through Forest' },
-  { id: 4, imageUrl: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=800&auto=format&fit=crop', title: 'Dramatic Mountain Peak' },
-  { id: 5, imageUrl: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800&auto=format&fit=crop', title: 'Golden Hour on River' },
-  { id: 6, imageUrl: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=800&auto=format&fit=crop', title: 'Green Rolling Hills' },
-  { id: 7, imageUrl: 'https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=800&auto=format&fit=crop', title: 'Waterfall Oasis' },
-  { id: 8, imageUrl: 'https://images.unsplash.com/photo-1439405326854-014607f694d7?q=80&w=800&auto=format&fit=crop', title: 'Crashing Ocean Waves' },
-  { id: 9, imageUrl: 'https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?q=80&w=800&auto=format&fit=crop', title: 'Beach Sunset' },
-  { id: 10, imageUrl: 'https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?q=80&w=800&auto=format&fit=crop', title: 'Path in the Woods' },
-  { id: 11, imageUrl: 'https://images.unsplash.com/photo-1505144808419-1957a94ca61e?q=80&w=800&auto=format&fit=crop', title: 'Colorful Hot Air Balloons' },
-  { id: 12, imageUrl: 'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop', title: 'Starry Night Sky' },
+  { id: 1, imageUrl: 'https://desirable-bronze-cbuzrs8tlp.edgeone.app/cover.jpg', title: 'Financial Exploration' },
+  { id: 2, imageUrl: 'https://constitutional-orange-9bt6qoxjmx.edgeone.app/Landing%20Page%20Design.jpg', title: 'Revolution your Workflow' },
+  { id: 3, imageUrl: 'https://possible-teal-myk2i4zdba.edgeone.app/XZone%203D%20web.jpg', title: '3D Future Website landing page design for custom' },
+  { id: 4, imageUrl: 'https://convincing-cyan-loyknqdtsz.edgeone.app/OCULUS.jpg', title: 'Future you need to Explore' },
+  { id: 5, imageUrl: 'https://dual-blue-rrrcegxxjj.edgeone.app/Metal_Desktop.jpg', title: 'Golden 3D website interface design' },
+  { id: 6, imageUrl: 'https://consistent-fuchsia-t7b07nwroc.edgeone.app/Hero.jpg', title: 'AI powered builder website development' },
+  { id: 7, imageUrl: 'https://various-amethyst-tu8loob5io.edgeone.app/Homepage.jpg', title: 'TurNur The model in this website' },
+  { id: 8, imageUrl: 'https://eligible-plum-pcaxuuaauo.edgeone.app/ETHERON.jpg', title: 'Ethoron added website in the future website' },
+  { id: 9, imageUrl: 'https://neighbouring-brown-owj8w4ym3r.edgeone.app/Meta%20verse.jpg', title: 'Meta verse ai powered website' },
+  { id: 10, imageUrl: 'https://high-jade-tahq0s9rmq.edgeone.app/hg.jpg', title: 'Path in the Woods' },
+  { id: 11, imageUrl: 'https://optimistic-silver-avyggnjemy.edgeone.app/Landing%201.jpg', title: 'AI powered website builder' },
+  { id: 12, imageUrl: 'https://continental-fuchsia-w97ultprnm.edgeone.app/Thumbnail.jpg', title: 'AI website thumbnail design' },
 ];
 
 // --- GridItem Component ---
