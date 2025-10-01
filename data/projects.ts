@@ -12,7 +12,7 @@ export const projects: Project[] = [
     title: 'Alex Fowler',
     description: 'A modern personal portfolio website with smooth UI and responsive design.',
     image: '/images/project-2.png',
-    preview: "https://alexfowler.netlify.app/"
+    preview: "https://optimalperformanceai.com"
   },
   {
     title: 'United Valet',
