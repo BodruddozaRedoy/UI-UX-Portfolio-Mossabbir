@@ -452,142 +452,142 @@ const InfiniteDraggableGrid: React.FC<InfiniteDraggableGridProps> = ({
 const FALLBACK_GALLERY: GalleryItem[] = [
   {
     id: 0,
-    full_src: "https://i.ibb.co.com/p66jBFJD/6.jpg",
-    thumb_src: "https://i.ibb.co.com/p66jBFJD/6.jpg",
+    full_src: "https://desirable-bronze-cbuzrs8tlp.edgeone.app/cover.jpg",
+    thumb_src: "https://desirable-bronze-cbuzrs8tlp.edgeone.app/cover.jpg",
     title: "Gallery Image 0",
   },
   {
     id: 1,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/1.jpg",
+    full_src: "https://constitutional-orange-9bt6qoxjmx.edgeone.app/Landing%20Page%20Design.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_1.jpg",
+      "https://constitutional-orange-9bt6qoxjmx.edgeone.app/Landing%20Page%20Design.jpg",
     title: "Gallery Image 1",
   },
 
   {
     id: 2,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/2.jpg",
+    full_src: "https://possible-teal-myk2i4zdba.edgeone.app/XZone%203D%20web.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_2.jpg",
+      "https://possible-teal-myk2i4zdba.edgeone.app/XZone%203D%20web.jpg",
     title: "Image 2",
   },
   {
     id: 3,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/3.jpg",
+    full_src: "https://convincing-cyan-loyknqdtsz.edgeone.app/OCULUS.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_3.jpg",
+      "https://convincing-cyan-loyknqdtsz.edgeone.app/OCULUS.jpg",
     title: "Image 3",
   },
   {
     id: 4,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/4.jpg",
+    full_src: "https://consistent-fuchsia-t7b07nwroc.edgeone.app/Hero.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_4.jpg",
+      "https://consistent-fuchsia-t7b07nwroc.edgeone.app/Hero.jpg",
     title: "Image 4",
   },
   {
     id: 5,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/5.jpg",
+    full_src: "https://various-amethyst-tu8loob5io.edgeone.app/Homepage.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_5.jpg",
+      "https://various-amethyst-tu8loob5io.edgeone.app/Homepage.jpg",
     title: "Image 5",
   },
   {
     id: 6,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/6.jpg",
+    full_src: "https://eligible-plum-pcaxuuaauo.edgeone.app/ETHERON.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_6.jpg",
+      "https://eligible-plum-pcaxuuaauo.edgeone.app/ETHERON.jpg",
     title: "Image 6",
   },
   {
     id: 7,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/7.jpg",
+    full_src: "https://neighbouring-brown-owj8w4ym3r.edgeone.app/Meta%20verse.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_7.jpg",
+      "https://neighbouring-brown-owj8w4ym3r.edgeone.app/Meta%20verse.jpg",
     title: "Image 7",
   },
   {
     id: 8,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/8.jpg",
+    full_src: "https://neighbouring-brown-owj8w4ym3r.edgeone.app/Meta%20verse.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_8.jpg",
+      "https://neighbouring-brown-owj8w4ym3r.edgeone.app/Meta%20verse.jpg",
     title: "Image 8",
   },
   {
     id: 9,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/9.jpg",
+    full_src: "https://high-jade-tahq0s9rmq.edgeone.app/hg.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_9.jpg",
+      "https://high-jade-tahq0s9rmq.edgeone.app/hg.jpg",
     title: "Image 9",
   },
   {
     id: 10,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/10.jpg",
+    full_src: "https://optimistic-silver-avyggnjemy.edgeone.app/Landing%201.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_10.jpg",
+      "https://optimistic-silver-avyggnjemy.edgeone.app/Landing%201.jpg",
     title: "Image 10",
   },
   {
     id: 11,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/11.jpg",
+    full_src: "https://continental-fuchsia-w97ultprnm.edgeone.app/Thumbnail.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_11.jpg",
+      "https://continental-fuchsia-w97ultprnm.edgeone.app/Thumbnail.jpg",
     title: "Image 11",
   },
   {
     id: 12,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/12.jpg",
+    full_src: "https://continental-fuchsia-w97ultprnm.edgeone.app/Thumbnail.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_12.jpg",
+      "https://continental-fuchsia-w97ultprnm.edgeone.app/Thumbnail.jpg",
     title: "Image 12",
   },
   {
     id: 13,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/13.jpg",
+    full_src: "https://monthly-teal-f4sbfuzrag.edgeone.app/Cover%20Image%202.png",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_13.jpg",
+      "https://monthly-teal-f4sbfuzrag.edgeone.app/Cover%20Image%202.png",
     title: "Image 13",
   },
   {
     id: 14,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/14.jpg",
+    full_src: "https://monthly-teal-f4sbfuzrag.edgeone.app/uopload/Cover%20Image%201.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_14.jpg",
+      "https://monthly-teal-f4sbfuzrag.edgeone.app/uopload/Cover%20Image%201.jpg",
     title: "Image 14",
   },
   {
     id: 15,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/15.jpg",
+    full_src: "https://monthly-teal-f4sbfuzrag.edgeone.app/uopload/UX%20Case%20Study%201.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_15.jpg",
+      "https://monthly-teal-f4sbfuzrag.edgeone.app/uopload/UX%20Case%20Study%201.jpg",
     title: "Image 15",
   },
   {
     id: 16,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/16.jpg",
+    full_src: "https://great-jade-6gh3eirnqg.edgeone.app/1600x1200.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_16.jpg",
+      "https://great-jade-6gh3eirnqg.edgeone.app/COVER.jpg",
     title: "Image 16",
   },
   {
     id: 17,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/17.jpg",
+    full_src: "https://great-jade-6gh3eirnqg.edgeone.app/Desktop%20-%202.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_17.jpg",
+      "https://great-jade-6gh3eirnqg.edgeone.app/Desktop%20-%202.jpg",
     title: "Image 17",
   },
   {
     id: 18,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/18.jpg",
+    full_src: "https://great-jade-6gh3eirnqg.edgeone.app/Desktop%20-%2022.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_18.jpg",
+      "https://great-jade-6gh3eirnqg.edgeone.app/Desktop%20-%2022.jpg",
     title: "Image 18",
   },
   {
     id: 19,
-    full_src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/19.jpg",
+    full_src: "https://great-jade-6gh3eirnqg.edgeone.app/Thumbnail.jpg",
     thumb_src:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/204379/thumb_19.jpg",
+      "https://great-jade-6gh3eirnqg.edgeone.app/Thumbnail.jpg",
     title: "Image 19",
   },
   {

@@ -308,5 +308,4 @@ export const projects: Project[] = [
     image: '/images/project-53.jpg',
     preview: "https://healo.infiheal.com/"
   },
-  
 ];
