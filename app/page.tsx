@@ -21,7 +21,9 @@ export default function Home() {
       <HeroSection />
       {/* <AboutPage/> */}
       <SkillMarquee></SkillMarquee>
-      <DragMeGrid />
+      <div className="hidden lg:block">
+        <DragMeGrid />
+      </div>
       <Developer />
       <Service />
       <OrbitingSkills></OrbitingSkills>
