@@ -30,13 +30,16 @@ jobs:
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.SSH_KEY }}
           source: "out/*"
-          target: "/var/www/uiverse-frontend/out"
+          target: "/var/www/uiverse-frontend/out/"
+          rm: false
+          overwrite: true
 
-      - name: Restart frontend server on VPS
+      - name: Restart frontend on VPS
         uses: appleboy/ssh-action@v0.1.10
         with:
           host: ${{ secrets.VPS_HOST }}
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.SSH_KEY }}
           script: |
+            cd /var/www/uiverse-frontend
             pm2 restart frontend || pm2 start "npx serve -s /var/www/uiverse-frontend/out -l 3000" --name frontend
