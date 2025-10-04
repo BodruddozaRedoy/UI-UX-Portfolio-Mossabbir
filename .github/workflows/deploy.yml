@@ -30,7 +30,7 @@ jobs:
           username: ${{ secrets.VPS_USER }}
           key: ${{ secrets.SSH_KEY }}
           source: "out/*"
-          target: "/var/www/uiverse-frontend/out/"
+          target: "/var/www/uiverse-frontend/"
           rm: true
           overwrite: true
 
