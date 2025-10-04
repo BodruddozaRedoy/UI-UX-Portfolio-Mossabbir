@@ -31,7 +31,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           source: "out/*"
           target: "/var/www/uiverse-frontend/out/"
-          rm: false
+          rm: true
           overwrite: true
 
       - name: Restart frontend on VPS
