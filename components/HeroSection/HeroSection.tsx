@@ -78,11 +78,10 @@ export default function HeroSection() {
               transition={fadeUpTransition(1.1)}
               className="text-md md:text-lg text-content dark:text-foreground/80 mb-6 leading-relaxed"
             >
-              {/* Helping startups and brands stand out through smart design. We
+              Helping startups and brands stand out through smart design. We
               turn ideas into reality, functional, user-validated interfaces.
-              UI/UX that delivers results, not just pretty pixels. */}
+              UI/UX that delivers results, not just pretty pixels.
 
-              this is development
             </motion.p>
 
               <CustomButton
