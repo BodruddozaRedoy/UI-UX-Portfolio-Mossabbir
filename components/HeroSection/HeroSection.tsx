@@ -8,6 +8,7 @@ import { CountsUp } from "./CountsUp";
 // import dynamic from "next/dynamic";
 import { PhoneIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
+import { Grid } from "lucide-react";
 
 // ✅ Dynamically import Lottie Player (client-side only)
 // const LottiePlayer = dynamic(
@@ -83,7 +84,8 @@ export default function HeroSection() {
               UI/UX that delivers results, not just pretty pixels.
             </motion.p>
 
-              <CustomButton
+              <div className="flex items-center gap-5">
+                <CustomButton
               variant="outline"
               icon={<PhoneIcon className="h-4 w-4" />}
               onClick={() => window.open("https://wa.me/8801790973652", "_blank")}
@@ -91,6 +93,16 @@ export default function HeroSection() {
             >
               Live Chat
             </CustomButton>
+
+              <CustomButton
+              variant="outline"
+              icon={<Grid className="h-4 w-4" />}
+              onClick={() => window.open("https://library.uiverse.co/", "_blank")}
+              className="uppercase hidden md:block z-10 cursor-pointer"
+            >
+              Component Library
+            </CustomButton>
+              </div>
 
             {/* Countup */}
             <div className="mt-6">
