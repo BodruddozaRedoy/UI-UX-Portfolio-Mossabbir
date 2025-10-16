@@ -80,8 +80,9 @@ export default function HeroSection() {
               className="text-md md:text-lg text-content dark:text-foreground/80 mb-6 leading-relaxed"
             >
               Helping startups and brands stand out through smart design. We
-              turn ideas into sleek, functional, user-validated interfaces.
+              turn ideas into reality, functional, user-validated interfaces.
               UI/UX that delivers results, not just pretty pixels.
+
             </motion.p>
 
               <div className="flex items-center gap-5">
