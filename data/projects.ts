@@ -39,7 +39,7 @@ export const projects: Project[] = [
     preview: "https://beauty.jvai.site/"
   },
   {
-    title: 'VendoCart',
+    title: 'Vendo Cart',
     description: 'A multi-vendor e-commerce platform with product management and cart features.',
     image: '/images/project-5.png',
     preview: "https://vendo-cart-frontend.vercel.app/"
