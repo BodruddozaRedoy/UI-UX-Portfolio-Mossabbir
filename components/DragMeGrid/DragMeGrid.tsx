@@ -8,7 +8,7 @@ import React, {
   useCallback,
   useMemo,
 } from "react";
-import { FALLBACK_GALLERY } from "./dargMeData";
+import { FALLBACK_GALLERY } from "../../data/dargMeData";
 
 // --- Constants ---
 const CARD_WIDTH = 256;
