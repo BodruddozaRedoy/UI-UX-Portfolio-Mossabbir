@@ -51,7 +51,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     name: "Emily Jonson",
-    role: "CEO",
+    role: "Sr.HR",
     imageUrl: "https://i.pinimg.com/736x/8c/6d/db/8c6ddb5fe6600fcc4b183cb2ee228eb7.jpg",
     instagram: "",
     facebook: "",
@@ -59,7 +59,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     name: "Harshita Patel",
-    role: "HR",
+    role: "Jr.HR",
     imageUrl: "https://i.pinimg.com/736x/6f/a3/6a/6fa36aa2c367da06b2a4c8ae1cf9ee02.jpg",
     instagram: "",
     facebook: "",
@@ -131,7 +131,7 @@ const teamMembers: TeamMember[] = [
   },
   {
     name: "Henry Wilson",
-    role: "DevOps Engineer",
+    role: "Cheif happyness Officer",
     imageUrl: "https://i.pinimg.com/1200x/08/a2/41/08a2413b771b729a9f9df20fa97be52a.jpg",
     instagram: "",
     facebook: "",
