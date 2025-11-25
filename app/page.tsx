@@ -1,3 +1,5 @@
+"use client";
+
 import HeroSection from "@/components/HeroSection/HeroSection";
 import Faq from "@/components/Faqs/Faq";
 import Service from "@/components/Services/Service";
@@ -14,16 +16,25 @@ import TimelinePage2 from "@/components/TimelinePage2/TimelinePage2";
 import Masonary from "@/components/Professional/Professional";
 import OrbitCarousel from "@/components/Orbit2/Orbit2";
 import PricingSection from "@/components/Pricing/Pricing";
+import { useEffect } from "react";
 
 export default function Home() {
+
+  useEffect(() => {
+
+    window.matchMedia("(prefers-color-scheme: dark)")
+  })
+
   return (
     <main>
       <HeroSection />
       {/* <AboutPage/> */}
-      <SkillMarquee></SkillMarquee>
-      <div className="hidden lg:block">
-        <DragMeGrid />
+      <div className="pt-10 bg-black">
+        <SkillMarquee></SkillMarquee> 
       </div>
+      {/* <div className="hidden lg:block">
+        <DragMeGrid />
+      </div> */}
       <Developer />
       <Service />
       <OrbitingSkills></OrbitingSkills>

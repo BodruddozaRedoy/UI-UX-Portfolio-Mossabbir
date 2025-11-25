@@ -20,11 +20,11 @@ export function SheetDemo() {
     { href: "/about", label: "About" },
     { href: "/projects", label: "Projects" },
     { href: "/blogs", label: "Blogs" },
-    { href: "/contact", label: "Contact" },
+    { href: "/contact", label: "Contact" }, 
   ];
 
   const socialLinks = {
-   instagram:"https://www.instagram.com/ui_verse_1/",
+   instagram:"https://www.instagram.com/dev.uiverse/",
     linkedin: "https://www.linkedin.com/in/uiverse",
   };
 

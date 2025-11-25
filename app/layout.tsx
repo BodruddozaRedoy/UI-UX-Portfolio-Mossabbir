@@ -1,11 +1,11 @@
+
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/shared/ThemeProvider";
 import Header from "../components/Header/Header";
 import Footer from "../components/shared/footer";
-
-
 
 
 const geistSans = Geist({
@@ -29,19 +29,22 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+
+
+
   return (
-    <html lang="en" className="scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary" >
+    <html lang="en" data-theme="dark" className="scrollbar-thin scrollbar-thumb-primary scrollbar-track-secondary dark"  >
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="dark"
           enableSystem
           disableTransitionOnChange
         >
           <Header/>
-          <main className="min-h-[calc(100vh-69px)] ">{children}</main>
+          <main className="min-h-[calc(100vh-69px)]">{children}</main>
           <Footer/>
         </ThemeProvider>
       </body>

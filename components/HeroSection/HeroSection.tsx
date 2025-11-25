@@ -112,14 +112,14 @@ export default function HeroSection() {
           </motion.div>
 
           {/* Client-side-only Lottie / Video Animation */}
-          <div className="w-full md:w-1/2 flex justify-center animate-float">
+          <div className="w-full md:w-1/2 flex justify-center animate-float   ">
             <video
               src="/video/updated-video.mp4"
               autoPlay
               loop
               muted
               playsInline
-              className=""
+              className=" !bg-none"
             />
           </div>
         </div>

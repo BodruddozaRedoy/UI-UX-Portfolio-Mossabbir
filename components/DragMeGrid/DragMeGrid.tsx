@@ -133,7 +133,7 @@ const Card = React.memo<CardProps>(({ descriptor, x, y }) => {
 
   return (
     <div
-      className="absolute overflow-hidden"
+      className="absolute overflow-hidden border-5 border-black"
       style={{
         transform: `translate3d(${x}px, ${y}px, 0)`,
         willChange: "transform",
@@ -434,7 +434,8 @@ const InfiniteDraggableGrid: React.FC<InfiniteDraggableGridProps> = ({
             key={card.key}
             descriptor={card.descriptor}
             x={card.x}
-            y={card.y}
+            y={card.y} 
+            
           />
         ))}
       </div>

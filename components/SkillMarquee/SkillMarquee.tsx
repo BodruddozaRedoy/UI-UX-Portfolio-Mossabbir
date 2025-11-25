@@ -29,7 +29,7 @@ function SkillMarquee() {
   const Marquee = ({ logos, direction = 'forwards' }: { logos: typeof logos1; direction?: string }) => {
     const numItems = logos.length;
     const speed = '25s';
-    const itemWidth = '80px';
+    const itemWidth = '150px';
     const itemGap = '25px';
 
     return (
@@ -54,7 +54,7 @@ function SkillMarquee() {
           {[...logos, ...logos].map((logo, index) => (
             <div
               key={index}
-              className="flex-shrink-0 flex justify-center items-center bg-white/10 border border-black rounded-2xl text-white"
+              className="flex-shrink-0 flex justify-center items-center bg-white/10 border border-black rounded-2xl text-white h-[60px]"
               style={{
                 width: 'var(--item-width)',
                 aspectRatio: '1 / 1.2',

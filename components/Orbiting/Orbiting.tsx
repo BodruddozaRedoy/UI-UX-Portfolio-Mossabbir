@@ -372,8 +372,8 @@ export default function OrbitingSkills() {
         <div
           className="absolute inset-0 "
           style={{
-            backgroundImage: `radial-gradient(circle at 25% 25%, #374151 0%, transparent 50%),
-                             radial-gradient(circle at 75% 75%, #4B5563 0%, transparent 50%)`,
+            // backgroundImage: `radial-gradient(circle at 25% 25%, #374151 0%, transparent 50%),
+            //                  radial-gradient(circle at 75% 75%, #4B5563 0%, transparent 50%)`,
           }}
         />
       </div>
