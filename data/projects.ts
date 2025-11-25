@@ -8,12 +8,12 @@ export const projects: Project[] = [
     image: '/images/project-1.png',
     preview: 'https://gsap-cocktails.vercel.app/'
   },
-  {
-    title: 'Eduloop',
-    description: 'A modern personal portfolio website with smooth UI and responsive design.',
-    image: '/images/project-55.jpg',
-    preview: "https://extrahanden.ai/"
-  },
+  // {
+  //   title: 'Eduloop',
+  //   description: 'A modern personal portfolio website with smooth UI and responsive design.',
+  //   image: '/images/project-55.jpg',
+  //   preview: "https://extrahanden.ai/"
+  // },
   {
     title: 'Alex Fowler',
     description: 'A modern personal portfolio website with smooth UI and responsive design.',
@@ -26,12 +26,12 @@ export const projects: Project[] = [
     image: '/images/project-3.png',
     preview: "https://fldoorstain.brightpixel-24.com/"
   },
-  {
-    title: 'Rico Holder',
-    description: 'A valet service website with booking and service details.',
-    image: '/images/project-54.jpg',
-    preview: "https://ricoholder.netlify.app/"
-  },
+  // {
+  //   title: 'Rico Holder',
+  //   description: 'A valet service website with booking and service details.',
+  //   image: '/images/project-54.jpg',
+  //   preview: "https://ricoholder.netlify.app/"
+  // },
   {
     title: 'Natural Beauty',
     description: 'A beauty and wellness website with clean design and product showcases.',
